@@ -3,7 +3,6 @@ For this assignment you should read the task, then below the task do what it ask
 EXAMPLE TASK:
 '''
 #EX) Make a variable called name and assign it to your name. And print the variable.
-from builtins import False, True
 name = "Michael"
 print(name)
 
@@ -33,19 +32,19 @@ y=100
 print(y)
 '''FLOATS'''
 #6) Make a variable called z that is set to 1.1. And print the variable.
-z=1.1.
+z=1.1
 print(z)
 #7) Make a variable called a that is set to 2.75. And print the variable.
-a=2.75.
+a=2.75
 print(a)
 #8) Make a variable called b that is set to a. And print the variable.
 b=a
 print(b)
 #9) Make a variable called c that is set to 100.1. And print the variable.
-c=100.1.
+c=100.1
 print(c)
 #10) Make a variable called d that is set to 12.3. And print the variable.
-d=12.3.
+d=12.3
 print(d)
 '''STRINGS'''
 #11) Make a variable called name that is set to your name. And print the variable.
@@ -53,7 +52,7 @@ name= "Sophia"
 print(name)
 #12) Make a variable called e that is set to the first letter of your name. And print the variable.
 e= "s"
-print(s)
+print(e)
 #13)Make a variable called f that is set to the last letter of your name. And print the variable.
 f= "a"
 print(a)
@@ -88,5 +87,9 @@ listString=["a","b","c","d","e"]
 #24) Print the 4th item in listString, using indexes.
 print(listString[3])
 #25) Make a list called listBoolean of 5 boolean variables. Then print each item in the list, using indexes.
-listBoolean(True,False,False,True,False)
+listBoolean=[True,False,False,True,False]
 print(listBoolean[0])
+print(listBoolean[1])
+print(listBoolean[2])
+print(listBoolean[3])
+print(listBoolean[4])
